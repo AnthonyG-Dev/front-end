@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tri-Spinner",
+      "description": "A classic fidget spinner with three arms and a central bearing for spinning.",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "name": "LED Light-Up Spinner",
+      "description": "A fidget spinner with LED lights that create mesmerizing patterns while spinning.",
+      "price": 560
+    },
+    {
+      "id": 3,
+      "name": "Titanium Alloy Spinner",
+      "description": "A high-quality fidget spinner made from titanium alloy for enhanced durability and smooth spinning.",
+      "price": 599
+    },
+    {
+      "id": 4,
+      "name": "Ninja Star Spinner",
+      "description": "A unique fidget spinner shaped like a ninja star, providing a different spinning experience.",
+      "price": 800
+    },
+    {
+      "id": 5,
+      "name": "Metal Gear Spinner",
+      "description": "A fidget spinner with a design inspired by mechanical gears, giving it a steampunk look.",
+      "price": 999
+    },
+    {
+      "id": 6,
+      "name": "Glow-in-the-Dark Spinner",
+      "description": "A fidget spinner that glows in the dark, adding a cool visual effect to your spinning sessions.",
+      "price": 320
+    },
+    {
+      "id": 7,
+      "name": "Aluminum Alloy Spinner",
+      "description": "A lightweight and durable fidget spinner made from aluminum alloy.",
+      "price": 555
+    },
+    {
+      "id": 8,
+      "name": "Ceramic Bearing Spinner",
+      "description": "A fidget spinner with a ceramic bearing for smooth and quiet spinning.",
+      "price": 400
+    },
+    {
+      "id": 9,
+      "name": "Rainbow Metal Spinner",
+      "description": "A fidget spinner with a rainbow-colored metallic finish for a vibrant and eye-catching look.",
+      "price": 620
+    },
+    {
+      "id": 10,
+      "name": "Wooden Spinner",
+      "description": "A fidget spinner made from natural wood, providing a unique tactile experience.",
+      "price": 700
+    },
+    {
+      "id": 11,
+      "name": "Diamond-Encrusted Spinner",
+      "description": "A luxurious fidget spinner adorned with diamonds, adding a touch of elegance.",
+      "price": 500
+    },
+    {
+      "id": 12,
+      "name": "Carbon Fiber Spinner",
+      "description": "A fidget spinner made from lightweight and durable carbon fiber material.",
+      "price": 1200
+    },
+    {
+      "id": 13,
+      "name": "Mini Pocket Spinner",
+      "description": "A compact and portable fidget spinner that easily fits in your pocket.",
+      "price": 980
+    },
+    {
+      "id": 14,
+      "name": "Two-Sided Spinner",
+      "description": "A fidget spinner with different patterns on each side, providing variety in spinning visuals.",
+      "price": 775
+    },
+    {
+      "id": 15,
+      "name": "Animal Print Spinner",
+      "description": "A fidget spinner with a trendy animal print design for a fashionable spinning experience.",
+      "price": 738
+    },
+    {
+      "id": 16,
+      "name": "Gold Plated Spinner",
+      "description": "A fidget spinner plated with gold, combining luxury and fidgeting fun.",
+      "price": 1110
+    }
+  ]
+}

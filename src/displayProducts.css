@@ -1,0 +1,98 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+ul.card-body {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.card-item {
+  display: grid;
+  /* Add this line */
+  grid-template-rows: auto 1fr auto auto;
+  /* Add this line */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 0;
+}
+
+.price {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.delete-button {
+  padding: 5px 10px;
+  background-color: #bf7d78;
+  color: #fff;
+}
+
+.add-product-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.add-product-form label {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.add-product-form input,
+.add-product-form textarea {
+  width: 300px;
+  padding: 8px;
+  margin-bottom: 16px;
+}
+
+.add-product-form button {
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.add-product-form button:hover {
+  background-color: #45a049;
+}
+
+.add-product-form button:active {
+  background-color: #3e8e41;
+}
+
+.add-product-form button:focus {
+  outline: none;
+}
